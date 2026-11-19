@@ -1,0 +1,47 @@
+name: Build iOS IPA
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-ios:
+    runs-on: macos-14
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+
+      - name: Build app (unsigned)
+        run: |
+          xcodebuild \
+            -project ProfileBrowser.xcodeproj \
+            -scheme ProfileBrowser \
+            -sdk iphoneos \
+            -configuration Release \
+            -derivedDataPath "$PWD/build/DD" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO \
+            build
+
+      - name: Package unsigned IPA
+        run: |
+          APP_PATH=$(find "$PWD/build/DD/Build/Products/Release-iphoneos" -maxdepth 1 -name "*.app" | head -n 1)
+          echo "App: $APP_PATH"
+          test -n "$APP_PATH"
+          rm -rf Payload ProfileBrowser-unsigned.ipa
+          mkdir Payload
+          cp -R "$APP_PATH" Payload/
+          zip -qry ProfileBrowser-unsigned.ipa Payload
+          ls -lh ProfileBrowser-unsigned.ipa
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-browser-ios-ipa-unsigned
+          path: ProfileBrowser-unsigned.ipa
+          retention-days: 30
+          if-no-files-found: error
