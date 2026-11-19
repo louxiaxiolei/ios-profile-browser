@@ -1,1 +1,59 @@
-aW1wb3J0IEZvdW5kYXRpb24KCi8vLyDnlJ/miJDlnKjmr4/kuKrpobXpnaIgZG9jdW1lbnQgc3RhcnQg5rOo5YWl55qEIEpT77yM6KaG55uW6KGo6Z2i5Y+C5pWw77yaCi8vLyBuYXZpZ2F0b3IubGFuZ3VhZ2UgLyBsYW5ndWFnZXPjgIFzY3JlZW4g5bC65a+444CBZGV2aWNlUGl4ZWxSYXRpb+OAgeaXtuWMuu+8iEludGwgKyBnZXRUaW1lem9uZU9mZnNldO+8ieOAggovLy8g5rOo5oSP77ya6L+Z5Y+q5pivIEpTIOWxguimhueblu+8jOW8leaTjue6p+aMh+e6ue+8iGNhbnZhcyAvIFdlYkdMIC8g5a2X5L2T77yJ5pS55LiN5LqG77yM572R56uZ5Y+v5qOA5rWL5Ye65rOo5YWl55eV6L+544CCCmVudW0gRmluZ2VycHJpbnRTY3JpcHQgewogICAgc3RhdGljIGZ1bmMgbWFrZShmb3IgcHJvZmlsZTogQnJvd3NlclByb2ZpbGUpIC0+IFN0cmluZyB7CiAgICAgICAgdmFyIGxpbmVzOiBbU3RyaW5nXSA9IFtdCiAgICAgICAgbGluZXMuYXBwZW5kKCJ0cnkgeyIpCgogICAgICAgIGxldCBsYW5nID0ganNTdHJpbmcocHJvZmlsZS5sYW5ndWFnZSkKICAgICAgICBsaW5lcy5hcHBlbmQoIk9iamVjdC5kZWZpbmVQcm9wZXJ0eShuYXZpZ2F0b3IsICdsYW5ndWFnZScsIHsgZ2V0OiBmdW5jdGlvbigpIHsgcmV0dXJuIFwobGFuZyk7IH0gfSk7IikKICAgICAgICBsaW5lcy5hcHBlbmQoIk9iamVjdC5kZWZpbmVQcm9wZXJ0eShuYXZpZ2F0b3IsICdsYW5ndWFnZXMnLCB7IGdldDogZnVuY3Rpb24oKSB7IHJldHVybiBbXChsYW5nKV07IH0gfSk7IikKCiAgICAgICAgaWYgbGV0IHMgPSBwcm9maWxlLnNjcmVlblNpemUgewogICAgICAgICAgICBsaW5lcy5hcHBlbmQoIk9iamVjdC5kZWZpbmVQcm9wZXJ0eSh3aW5kb3cuc2NyZWVuLCAnd2lkdGgnLCB7IGdldDogZnVuY3Rpb24oKSB7IHJldHVybiBcKHMud2lkdGgpOyB9IH0pOyIpCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiT2JqZWN0LmRlZmluZVByb3BlcnR5KHdpbmRvdy5zY3JlZW4sICdoZWlnaHQnLCB7IGdldDogZnVuY3Rpb24oKSB7IHJldHVybiBcKHMuaGVpZ2h0KTsgfSB9KTsiKQogICAgICAgICAgICBsaW5lcy5hcHBlbmQoIk9iamVjdC5kZWZpbmVQcm9wZXJ0eSh3aW5kb3cuc2NyZWVuLCAnYXZhaWxXaWR0aCcsIHsgZ2V0OiBmdW5jdGlvbigpIHsgcmV0dXJuIFwocy53aWR0aCk7IH0gfSk7IikKICAgICAgICAgICAgbGluZXMuYXBwZW5kKCJPYmplY3QuZGVmaW5lUHJvcGVydHkod2luZG93LnNjcmVlbiwgJ2F2YWlsSGVpZ2h0JywgeyBnZXQ6IGZ1bmN0aW9uKCkgeyByZXR1cm4gXChzLmhlaWdodCk7IH0gfSk7IikKICAgICAgICAgICAgbGluZXMuYXBwZW5kKCJPYmplY3QuZGVmaW5lUHJvcGVydHkod2luZG93LCAnZGV2aWNlUGl4ZWxSYXRpbycsIHsgZ2V0OiBmdW5jdGlvbigpIHsgcmV0dXJuIFwocy5kcHIpOyB9IH0pOyIpCiAgICAgICAgfQoKICAgICAgICBpZiAhcHJvZmlsZS50aW1lWm9uZUlkLmlzRW1wdHkgewogICAgICAgICAgICBsaW5lcy5hcHBlbmQodGltZXpvbmVKUyh0ekxpdGVyYWw6IGpzU3RyaW5nKHByb2ZpbGUudGltZVpvbmVJZCkpKQogICAgICAgIH0KCiAgICAgICAgbGluZXMuYXBwZW5kKCJ9IGNhdGNoIChlKSB7fSIpCiAgICAgICAgcmV0dXJuICIoZnVuY3Rpb24oKSB7XG4iICsgbGluZXMuam9pbmVkKHNlcGFyYXRvcjogIlxuIikgKyAiXG59KSgpOyIKICAgIH0KCiAgICAvLy8g5oqKIFN3aWZ0IOWtl+espuS4suWuieWFqOWcsOe8lueggeaIkCBKUyDlrZfnrKbkuLLlrZfpnaLph4/vvIjotbAgSlNPTiDnvJbnoIHlho3liaXmjonmlbDnu4Tmi6zlj7fvvInjgIIKICAgIHByaXZhdGUgc3RhdGljIGZ1bmMganNTdHJpbmcoXyBzOiBTdHJpbmcpIC0+IFN0cmluZyB7CiAgICAgICAgaWYgbGV0IGRhdGEgPSB0cnk/IEpTT05TZXJpYWxpemF0aW9uLmRhdGEod2l0aEpTT05PYmplY3Q6IFtzXSksCiAgICAgICAgICAgbGV0IHRleHQgPSBTdHJpbmcoZGF0YTogZGF0YSwgZW5jb2Rpbmc6IC51dGY4KSB7CiAgICAgICAgICAgIHJldHVybiBTdHJpbmcodGV4dC5kcm9wRmlyc3QoKS5kcm9wTGFzdCgpKQogICAgICAgIH0KICAgICAgICByZXR1cm4gIidcKHMpJyIKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jIHRpbWV6b25lSlModHpMaXRlcmFsOiBTdHJpbmcpIC0+IFN0cmluZyB7CiAgICAgICAgcmV0dXJuICIiIgogICAgICAgIHZhciBfX3R6ID0gXCh0ekxpdGVyYWwpOwogICAgICAgIHZhciBfX29yaWdSZXNvbHZlZCA9IEludGwuRGF0ZVRpbWVGb3JtYXQucHJvdG90eXBlLnJlc29sdmVkT3B0aW9uczsKICAgICAgICBJbnRsLkRhdGVUaW1lRm9ybWF0LnByb3RvdHlwZS5yZXNvbHZlZE9wdGlvbnMgPSBmdW5jdGlvbigpIHsKICAgICAgICAgICAgdmFyIG8gPSBfX29yaWdSZXNvbHZlZC5jYWxsKHRoaXMpOwogICAgICAgICAgICBvLnRpbWVab25lID0gX190ejsKICAgICAgICAgICAgcmV0dXJuIG87CiAgICAgICAgfTsKICAgICAgICBmdW5jdGlvbiBfX3R6T2Zmc2V0KGRhdGUpIHsKICAgICAgICAgICAgdmFyIGR0ZiA9IG5ldyBJbnRsLkRhdGVUaW1lRm9ybWF0KCdlbi1VUycsIHsgdGltZVpvbmU6IF9fdHosIGhvdXIxMjogZmFsc2UsIHllYXI6ICdudW1lcmljJywgbW9udGg6ICcyLWRpZ2l0JywgZGF5OiAnMi1kaWdpdCcsIGhvdXI6ICcyLWRpZ2l0JywgbWludXRlOiAnMi1kaWdpdCcsIHNlY29uZDogJzItZGlnaXQnIH0pOwogICAgICAgICAgICB2YXIgcGFydHMgPSB7fTsKICAgICAgICAgICAgZHRmLmZvcm1hdFRvUGFydHMoZGF0ZSkuZm9yRWFjaChmdW5jdGlvbihwKSB7IHBhcnRzW3AudHlwZV0gPSBwLnZhbHVlOyB9KTsKICAgICAgICAgICAgdmFyIGFzVVRDID0gRGF0ZS5VVEMocGFyc2VJbnQocGFydHMueWVhciwgMTApLCBwYXJzZUludChwYXJ0cy5tb250aCwgMTApIC0gMSwgcGFyc2VJbnQocGFydHMuZGF5LCAxMCksIHBhcnNlSW50KHBhcnRzLmhvdXIsIDEwKSAlIDI0LCBwYXJzZUludChwYXJ0cy5taW51dGUsIDEwKSwgcGFyc2VJbnQocGFydHMuc2Vjb25kLCAxMCkpOwogICAgICAgICAgICByZXR1cm4gTWF0aC5yb3VuZCgoZGF0ZS5nZXRUaW1lKCkgLSBhc1VUQykgLyA2MDAwMCk7CiAgICAgICAgfQogICAgICAgIERhdGUucHJvdG90eXBlLmdldFRpbWV6b25lT2Zmc2V0ID0gZnVuY3Rpb24oKSB7IHJldHVybiBfX3R6T2Zmc2V0KHRoaXMpOyB9OwogICAgICAgICIiIgogICAgfQp9Cg==
+import Foundation
+
+/// 生成在每个页面 document start 注入的 JS，覆盖表面参数：
+/// navigator.language / languages、screen 尺寸、devicePixelRatio、时区（Intl + getTimezoneOffset）。
+/// 注意：这只是 JS 层覆盖，引擎级指纹（canvas / WebGL / 字体）改不了，网站可检测出注入痕迹。
+enum FingerprintScript {
+    static func make(for profile: BrowserProfile) -> String {
+        var lines: [String] = []
+        lines.append("try {")
+
+        let lang = jsString(profile.language)
+        lines.append("Object.defineProperty(navigator, 'language', { get: function() { return \(lang); } });")
+        lines.append("Object.defineProperty(navigator, 'languages', { get: function() { return [\(lang)]; } });")
+
+        if let s = profile.screenSize {
+            lines.append("Object.defineProperty(window.screen, 'width', { get: function() { return \(s.width); } });")
+            lines.append("Object.defineProperty(window.screen, 'height', { get: function() { return \(s.height); } });")
+            lines.append("Object.defineProperty(window.screen, 'availWidth', { get: function() { return \(s.width); } });")
+            lines.append("Object.defineProperty(window.screen, 'availHeight', { get: function() { return \(s.height); } });")
+            lines.append("Object.defineProperty(window, 'devicePixelRatio', { get: function() { return \(s.dpr); } });")
+        }
+
+        if !profile.timeZoneId.isEmpty {
+            lines.append(timezoneJS(tzLiteral: jsString(profile.timeZoneId)))
+        }
+
+        lines.append("} catch (e) {}")
+        return "(function() {\n" + lines.joined(separator: "\n") + "\n})();"
+    }
+
+    /// 把 Swift 字符串安全地编码成 JS 字符串字面量（走 JSON 编码再剥掉数组括号）。
+    private static func jsString(_ s: String) -> String {
+        if let data = try? JSONSerialization.data(withJSONObject: [s]),
+           let text = String(data: data, encoding: .utf8) {
+            return String(text.dropFirst().dropLast())
+        }
+        return "'\(s)'"
+    }
+
+    private static func timezoneJS(tzLiteral: String) -> String {
+        return """
+        var __tz = \(tzLiteral);
+        var __origResolved = Intl.DateTimeFormat.prototype.resolvedOptions;
+        Intl.DateTimeFormat.prototype.resolvedOptions = function() {
+            var o = __origResolved.call(this);
+            o.timeZone = __tz;
+            return o;
+        };
+        function __tzOffset(date) {
+            var dtf = new Intl.DateTimeFormat('en-US', { timeZone: __tz, hour12: false, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit' });
+            var parts = {};
+            dtf.formatToParts(date).forEach(function(p) { parts[p.type] = p.value; });
+            var asUTC = Date.UTC(parseInt(parts.year, 10), parseInt(parts.month, 10) - 1, parseInt(parts.day, 10), parseInt(parts.hour, 10) % 24, parseInt(parts.minute, 10), parseInt(parts.second, 10));
+            return Math.round((date.getTime() - asUTC) / 60000);
+        }
+        Date.prototype.getTimezoneOffset = function() { return __tzOffset(this); };
+        """
+    }
+}
