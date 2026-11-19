@@ -1,1 +1,102 @@
-aW1wb3J0IFN3aWZ0VUkKaW1wb3J0IFdlYktpdAoKZmluYWwgY2xhc3MgV2ViU3RhdGU6IE9ic2VydmFibGVPYmplY3QgewogICAgQFB1Ymxpc2hlZCB2YXIgdXJsVGV4dDogU3RyaW5nID0gIiIKICAgIEBQdWJsaXNoZWQgdmFyIGNhbkdvQmFjazogQm9vbCA9IGZhbHNlCiAgICBAUHVibGlzaGVkIHZhciBjYW5Hb0ZvcndhcmQ6IEJvb2wgPSBmYWxzZQogICAgQFB1Ymxpc2hlZCB2YXIgaXNMb2FkaW5nOiBCb29sID0gZmFsc2UKICAgIHdlYWsgdmFyIHdlYlZpZXc6IFdLV2ViVmlldz8KCiAgICBmdW5jIGxvYWQoXyB0ZXh0OiBTdHJpbmcpIHsKICAgICAgICBndWFyZCBsZXQgd2ViVmlldywgbGV0IHVybCA9IFNlbGYubm9ybWFsaXplKHRleHQpIGVsc2UgeyByZXR1cm4gfQogICAgICAgIHdlYlZpZXcubG9hZChVUkxSZXF1ZXN0KHVybDogdXJsKSkKICAgIH0KCiAgICBzdGF0aWMgZnVuYyBub3JtYWxpemUoXyB0ZXh0OiBTdHJpbmcpIC0+IFVSTD8gewogICAgICAgIGxldCB0ID0gdGV4dC50cmltbWluZ0NoYXJhY3RlcnMoaW46IC53aGl0ZXNwYWNlc0FuZE5ld2xpbmVzKQogICAgICAgIGlmIHQuaXNFbXB0eSB7IHJldHVybiBuaWwgfQogICAgICAgIGlmIGxldCB1cmwgPSBVUkwoc3RyaW5nOiB0KSwgdXJsLnNjaGVtZSAhPSBuaWwsIHVybC5ob3N0ICE9IG5pbCB7CiAgICAgICAgICAgIHJldHVybiB1cmwKICAgICAgICB9CiAgICAgICAgaWYgIXQuY29udGFpbnMoIiAiKSwgdC5jb250YWlucygiLiIpIHsKICAgICAgICAgICAgcmV0dXJuIFVSTChzdHJpbmc6ICJodHRwczovLyIgKyB0KQogICAgICAgIH0KICAgICAgICBsZXQgcSA9IHQuYWRkaW5nUGVyY2VudEVuY29kaW5nKHdpdGhBbGxvd2VkQ2hhcmFjdGVyczogLnVybFF1ZXJ5QWxsb3dlZCkgPz8gdAogICAgICAgIHJldHVybiBVUkwoc3RyaW5nOiAiaHR0cHM6Ly93d3cuYmluZy5jb20vc2VhcmNoP3E9IiArIHEpCiAgICB9Cn0KCnN0cnVjdCBXZWJWaWV3OiBVSVZpZXdSZXByZXNlbnRhYmxlIHsKICAgIGxldCBwcm9maWxlOiBCcm93c2VyUHJvZmlsZQogICAgQE9ic2VydmVkT2JqZWN0IHZhciBzdGF0ZTogV2ViU3RhdGUKCiAgICBmdW5jIG1ha2VDb29yZGluYXRvcigpIC0+IENvb3JkaW5hdG9yIHsKICAgICAgICBDb29yZGluYXRvcihzdGF0ZTogc3RhdGUpCiAgICB9CgogICAgZnVuYyBtYWtlVUlWaWV3KGNvbnRleHQ6IENvbnRleHQpIC0+IFdLV2ViVmlldyB7CiAgICAgICAgbGV0IGNvbmZpZyA9IFdLV2ViVmlld0NvbmZpZ3VyYXRpb24oKQogICAgICAgIC8vIOaguOW/g+malOemu+eCue+8muavj+S4qiBwcm9maWxlIOS4gOS4queLrOeri+eahOaMgeS5heWMluaVsOaNruWtmOWCqO+8iGNvb2tpZSAvIGxvY2FsU3RvcmFnZSAvIOe8k+WtmOS6kuS4jeWFseS6q++8iQogICAgICAgIGNvbmZpZy53ZWJzaXRlRGF0YVN0b3JlID0gV0tXZWJzaXRlRGF0YVN0b3JlKGZvcklkZW50aWZpZXI6IHByb2ZpbGUuaWQpCiAgICAgICAgY29uZmlnLmRlZmF1bHRXZWJwYWdlUHJlZmVyZW5jZXMuYWxsb3dzQ29udGVudEphdmFTY3JpcHQgPSB0cnVlCgogICAgICAgIGxldCBjb250cm9sbGVyID0gV0tVc2VyQ29udGVudENvbnRyb2xsZXIoKQogICAgICAgIGxldCBzY3JpcHQgPSBXS1VzZXJTY3JpcHQoc291cmNlOiBGaW5nZXJwcmludFNjcmlwdC5tYWtlKGZvcjogcHJvZmlsZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmplY3Rpb25UaW1lOiAuYXREb2N1bWVudFN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yTWFpbkZyYW1lT25seTogZmFsc2UpCiAgICAgICAgY29udHJvbGxlci5hZGRVc2VyU2NyaXB0KHNjcmlwdCkKICAgICAgICBjb25maWcudXNlckNvbnRlbnRDb250cm9sbGVyID0gY29udHJvbGxlcgoKICAgICAgICBsZXQgd2ViVmlldyA9IFdLV2ViVmlldyhmcmFtZTogLnplcm8sIGNvbmZpZ3VyYXRpb246IGNvbmZpZykKICAgICAgICB3ZWJWaWV3Lm5hdmlnYXRpb25EZWxlZ2F0ZSA9IGNvbnRleHQuY29vcmRpbmF0b3IKICAgICAgICB3ZWJWaWV3LmFsbG93c0JhY2tGb3J3YXJkTmF2aWdhdGlvbkdlc3R1cmVzID0gdHJ1ZQogICAgICAgIHdlYlZpZXcuY3VzdG9tVXNlckFnZW50ID0gcHJvZmlsZS51c2VyQWdlbnQKICAgICAgICBjb250ZXh0LmNvb3JkaW5hdG9yLnN0YXRlLndlYlZpZXcgPSB3ZWJWaWV3CgogICAgICAgIGlmIGxldCBob21lID0gVVJMKHN0cmluZzogcHJvZmlsZS5ob21lUGFnZSkgewogICAgICAgICAgICB3ZWJWaWV3LmxvYWQoVVJMUmVxdWVzdCh1cmw6IGhvbWUpKQogICAgICAgIH0KICAgICAgICByZXR1cm4gd2ViVmlldwogICAgfQoKICAgIGZ1bmMgdXBkYXRlVUlWaWV3KF8gdWlWaWV3OiBXS1dlYlZpZXcsIGNvbnRleHQ6IENvbnRleHQpIHsKICAgICAgICAvLyBwcm9maWxlIOWPmOWMluaXtueItuinhuWbvueUqCAuaWQocHJvZmlsZS5pZCkg5pW05L2T6YeN5bu677yM6L+Z6YeM5LiN6ZyA6KaB5Y6f5Zyw5pu05pawCiAgICB9CgogICAgZmluYWwgY2xhc3MgQ29vcmRpbmF0b3I6IE5TT2JqZWN0LCBXS05hdmlnYXRpb25EZWxlZ2F0ZSB7CiAgICAgICAgbGV0IHN0YXRlOiBXZWJTdGF0ZQoKICAgICAgICBpbml0KHN0YXRlOiBXZWJTdGF0ZSkgewogICAgICAgICAgICBzZWxmLnN0YXRlID0gc3RhdGUKICAgICAgICB9CgogICAgICAgIGZ1bmMgd2ViVmlldyhfIHdlYlZpZXc6IFdLV2ViVmlldywgZGlkU3RhcnRQcm92aXNpb25hbE5hdmlnYXRpb24gbmF2aWdhdGlvbjogV0tOYXZpZ2F0aW9uISkgewogICAgICAgICAgICBzdGF0ZS5pc0xvYWRpbmcgPSB0cnVlCiAgICAgICAgICAgIHN5bmMod2ViVmlldykKICAgICAgICB9CgogICAgICAgIGZ1bmMgd2ViVmlldyhfIHdlYlZpZXc6IFdLV2ViVmlldywgZGlkRmluaXNoIG5hdmlnYXRpb246IFdLTmF2aWdhdGlvbiEpIHsKICAgICAgICAgICAgc3RhdGUuaXNMb2FkaW5nID0gZmFsc2UKICAgICAgICAgICAgc3luYyh3ZWJWaWV3KQogICAgICAgIH0KCiAgICAgICAgZnVuYyB3ZWJWaWV3KF8gd2ViVmlldzogV0tXZWJWaWV3LCBkaWRGYWlsIG5hdmlnYXRpb246IFdLTmF2aWdhdGlvbiEsIHdpdGhFcnJvciBlcnJvcjogRXJyb3IpIHsKICAgICAgICAgICAgc3RhdGUuaXNMb2FkaW5nID0gZmFsc2UKICAgICAgICAgICAgc3luYyh3ZWJWaWV3KQogICAgICAgIH0KCiAgICAgICAgZnVuYyB3ZWJWaWV3KF8gd2ViVmlldzogV0tXZWJWaWV3LCBkaWRGYWlsUHJvdmlzaW9uYWxOYXZpZ2F0aW9uIG5hdmlnYXRpb246IFdLTmF2aWdhdGlvbiEsIHdpdGhFcnJvciBlcnJvcjogRXJyb3IpIHsKICAgICAgICAgICAgc3RhdGUuaXNMb2FkaW5nID0gZmFsc2UKICAgICAgICAgICAgc3luYyh3ZWJWaWV3KQogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBmdW5jIHN5bmMoXyB3ZWJWaWV3OiBXS1dlYlZpZXcpIHsKICAgICAgICAgICAgc3RhdGUuY2FuR29CYWNrID0gd2ViVmlldy5jYW5Hb0JhY2sKICAgICAgICAgICAgc3RhdGUuY2FuR29Gb3J3YXJkID0gd2ViVmlldy5jYW5Hb0ZvcndhcmQKICAgICAgICAgICAgaWYgbGV0IHVybCA9IHdlYlZpZXcudXJsIHsKICAgICAgICAgICAgICAgIHN0YXRlLnVybFRleHQgPSB1cmwuYWJzb2x1dGVTdHJpbmcKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+import SwiftUI
+import WebKit
+
+final class WebState: ObservableObject {
+    @Published var urlText: String = ""
+    @Published var canGoBack: Bool = false
+    @Published var canGoForward: Bool = false
+    @Published var isLoading: Bool = false
+    weak var webView: WKWebView?
+
+    func load(_ text: String) {
+        guard let webView, let url = Self.normalize(text) else { return }
+        webView.load(URLRequest(url: url))
+    }
+
+    static func normalize(_ text: String) -> URL? {
+        let t = text.trimmingCharacters(in: .whitespacesAndNewlines)
+        if t.isEmpty { return nil }
+        if let url = URL(string: t), url.scheme != nil, url.host != nil {
+            return url
+        }
+        if !t.contains(" "), t.contains(".") {
+            return URL(string: "https://" + t)
+        }
+        let q = t.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? t
+        return URL(string: "https://www.bing.com/search?q=" + q)
+    }
+}
+
+struct WebView: UIViewRepresentable {
+    let profile: BrowserProfile
+    @ObservedObject var state: WebState
+
+    func makeCoordinator() -> Coordinator {
+        Coordinator(state: state)
+    }
+
+    func makeUIView(context: Context) -> WKWebView {
+        let config = WKWebViewConfiguration()
+        // 核心隔离点：每个 profile 一个独立的持久化数据存储（cookie / localStorage / 缓存互不共享）
+        config.websiteDataStore = WKWebsiteDataStore(forIdentifier: profile.id)
+        config.defaultWebpagePreferences.allowsContentJavaScript = true
+
+        let controller = WKUserContentController()
+        let script = WKUserScript(source: FingerprintScript.make(for: profile),
+                                  injectionTime: .atDocumentStart,
+                                  forMainFrameOnly: false)
+        controller.addUserScript(script)
+        config.userContentController = controller
+
+        let webView = WKWebView(frame: .zero, configuration: config)
+        webView.navigationDelegate = context.coordinator
+        webView.allowsBackForwardNavigationGestures = true
+        webView.customUserAgent = profile.userAgent
+        context.coordinator.state.webView = webView
+
+        if let home = URL(string: profile.homePage) {
+            webView.load(URLRequest(url: home))
+        }
+        return webView
+    }
+
+    func updateUIView(_ uiView: WKWebView, context: Context) {
+        // profile 变化时父视图用 .id(profile.id) 整体重建，这里不需要原地更新
+    }
+
+    final class Coordinator: NSObject, WKNavigationDelegate {
+        let state: WebState
+
+        init(state: WebState) {
+            self.state = state
+        }
+
+        func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
+            state.isLoading = true
+            sync(webView)
+        }
+
+        func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
+            state.isLoading = false
+            sync(webView)
+        }
+
+        func webView(_ webView: WKWebView, didFail navigation: WKNavigation!, withError error: Error) {
+            state.isLoading = false
+            sync(webView)
+        }
+
+        func webView(_ webView: WKWebView, didFailProvisionalNavigation navigation: WKNavigation!, withError error: Error) {
+            state.isLoading = false
+            sync(webView)
+        }
+
+        private func sync(_ webView: WKWebView) {
+            state.canGoBack = webView.canGoBack
+            state.canGoForward = webView.canGoForward
+            if let url = webView.url {
+                state.urlText = url.absoluteString
+            }
+        }
+    }
+}
