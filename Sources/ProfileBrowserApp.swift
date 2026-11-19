@@ -1,1 +1,13 @@
-aW1wb3J0IFN3aWZ0VUkKCkBtYWluCnN0cnVjdCBQcm9maWxlQnJvd3NlckFwcDogQXBwIHsKICAgIEBTdGF0ZU9iamVjdCBwcml2YXRlIHZhciBzdG9yZSA9IFByb2ZpbGVTdG9yZSgpCgogICAgdmFyIGJvZHk6IHNvbWUgU2NlbmUgewogICAgICAgIFdpbmRvd0dyb3VwIHsKICAgICAgICAgICAgQ29udGVudFZpZXcoKQogICAgICAgICAgICAgICAgLmVudmlyb25tZW50T2JqZWN0KHN0b3JlKQogICAgICAgIH0KICAgIH0KfQo=
+import SwiftUI
+
+@main
+struct ProfileBrowserApp: App {
+    @StateObject private var store = ProfileStore()
+
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .environmentObject(store)
+        }
+    }
+}
