@@ -1,1 +1,83 @@
-aW1wb3J0IFN3aWZ0VUkKCnN0cnVjdCBCcm93c2VyU2NyZWVuOiBWaWV3IHsKICAgIGxldCBwcm9maWxlOiBCcm93c2VyUHJvZmlsZQogICAgQFN0YXRlT2JqZWN0IHByaXZhdGUgdmFyIHN0YXRlID0gV2ViU3RhdGUoKQogICAgQFN0YXRlIHByaXZhdGUgdmFyIGFkZHJlc3NUZXh0OiBTdHJpbmcgPSAiIgogICAgQEZvY3VzU3RhdGUgcHJpdmF0ZSB2YXIgYWRkcmVzc0ZvY3VzZWQ6IEJvb2wKCiAgICB2YXIgYm9keTogc29tZSBWaWV3IHsKICAgICAgICBWU3RhY2soc3BhY2luZzogMCkgewogICAgICAgICAgICBXZWJWaWV3KHByb2ZpbGU6IHByb2ZpbGUsIHN0YXRlOiBzdGF0ZSkKICAgICAgICAgICAgICAgIC5pZChwcm9maWxlLmlkKQogICAgICAgICAgICBEaXZpZGVyKCkKICAgICAgICAgICAgdG9vbGJhcgogICAgICAgIH0KICAgICAgICAubmF2aWdhdGlvblRpdGxlKHByb2ZpbGUubmFtZSkKICAgICAgICAubmF2aWdhdGlvbkJhclRpdGxlRGlzcGxheU1vZGUoLmlubGluZSkKICAgICAgICAub25BcHBlYXIgewogICAgICAgICAgICBhZGRyZXNzVGV4dCA9IHByb2ZpbGUuaG9tZVBhZ2UKICAgICAgICB9CiAgICAgICAgLm9uQ2hhbmdlKG9mOiBzdGF0ZS51cmxUZXh0KSB7IF8sIG5ld1ZhbHVlIGluCiAgICAgICAgICAgIGlmICFhZGRyZXNzRm9jdXNlZCB7CiAgICAgICAgICAgICAgICBhZGRyZXNzVGV4dCA9IG5ld1ZhbHVlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2YXIgdG9vbGJhcjogc29tZSBWaWV3IHsKICAgICAgICBWU3RhY2soc3BhY2luZzogNikgewogICAgICAgICAgICBIU3RhY2soc3BhY2luZzogOCkgewogICAgICAgICAgICAgICAgVGV4dEZpZWxkKCLovpPlhaXnvZHlnYDmiJbmkJzntKIiLCB0ZXh0OiAkYWRkcmVzc1RleHQpCiAgICAgICAgICAgICAgICAgICAgLnRleHRGaWVsZFN0eWxlKC5yb3VuZGVkQm9yZGVyKQogICAgICAgICAgICAgICAgICAgIC5hdXRvY29ycmVjdGlvbkRpc2FibGVkKCkKICAgICAgICAgICAgICAgICAgICAudGV4dElucHV0QXV0b2NhcGl0YWxpemF0aW9uKC5uZXZlcikKICAgICAgICAgICAgICAgICAgICAua2V5Ym9hcmRUeXBlKC5VUkwpCiAgICAgICAgICAgICAgICAgICAgLmZvY3VzZWQoJGFkZHJlc3NGb2N1c2VkKQogICAgICAgICAgICAgICAgICAgIC5vblN1Ym1pdCB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlLmxvYWQoYWRkcmVzc1RleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3NGb2N1c2VkID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiBzdGF0ZS5pc0xvYWRpbmcgewogICAgICAgICAgICAgICAgICAgIFByb2dyZXNzVmlldygpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgSFN0YWNrKHNwYWNpbmc6IDI4KSB7CiAgICAgICAgICAgICAgICBCdXR0b24gewogICAgICAgICAgICAgICAgICAgIHN0YXRlLndlYlZpZXc/LmdvQmFjaygpCiAgICAgICAgICAgICAgICB9IGxhYmVsOiB7CiAgICAgICAgICAgICAgICAgICAgSW1hZ2Uoc3lzdGVtTmFtZTogImNoZXZyb24uYmFja3dhcmQiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLmRpc2FibGVkKCFzdGF0ZS5jYW5Hb0JhY2spCgogICAgICAgICAgICAgICAgQnV0dG9uIHsKICAgICAgICAgICAgICAgICAgICBzdGF0ZS53ZWJWaWV3Py5nb0ZvcndhcmQoKQogICAgICAgICAgICAgICAgfSBsYWJlbDogewogICAgICAgICAgICAgICAgICAgIEltYWdlKHN5c3RlbU5hbWU6ICJjaGV2cm9uLmZvcndhcmQiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLmRpc2FibGVkKCFzdGF0ZS5jYW5Hb0ZvcndhcmQpCgogICAgICAgICAgICAgICAgQnV0dG9uIHsKICAgICAgICAgICAgICAgICAgICBpZiBzdGF0ZS5pc0xvYWRpbmcgewogICAgICAgICAgICAgICAgICAgICAgICBzdGF0ZS53ZWJWaWV3Py5zdG9wTG9hZGluZygpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUud2ViVmlldz8ucmVsb2FkKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGxhYmVsOiB7CiAgICAgICAgICAgICAgICAgICAgSW1hZ2Uoc3lzdGVtTmFtZTogc3RhdGUuaXNMb2FkaW5nID8gInhtYXJrIiA6ICJhcnJvdy5jbG9ja3dpc2UiKQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIEJ1dHRvbiB7CiAgICAgICAgICAgICAgICAgICAgc3RhdGUubG9hZChwcm9maWxlLmhvbWVQYWdlKQogICAgICAgICAgICAgICAgfSBsYWJlbDogewogICAgICAgICAgICAgICAgICAgIEltYWdlKHN5c3RlbU5hbWU6ICJob3VzZSIpCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgU3BhY2VyKCkKICAgICAgICAgICAgfQogICAgICAgICAgICAuZm9udCgudGl0bGUzKQogICAgICAgIH0KICAgICAgICAucGFkZGluZyguaG9yaXpvbnRhbCwgMTIpCiAgICAgICAgLnBhZGRpbmcoLnZlcnRpY2FsLCA4KQogICAgfQp9Cg==
+import SwiftUI
+
+struct BrowserScreen: View {
+    let profile: BrowserProfile
+    @StateObject private var state = WebState()
+    @State private var addressText: String = ""
+    @FocusState private var addressFocused: Bool
+
+    var body: some View {
+        VStack(spacing: 0) {
+            WebView(profile: profile, state: state)
+                .id(profile.id)
+            Divider()
+            toolbar
+        }
+        .navigationTitle(profile.name)
+        .navigationBarTitleDisplayMode(.inline)
+        .onAppear {
+            addressText = profile.homePage
+        }
+        .onChange(of: state.urlText) { _, newValue in
+            if !addressFocused {
+                addressText = newValue
+            }
+        }
+    }
+
+    private var toolbar: some View {
+        VStack(spacing: 6) {
+            HStack(spacing: 8) {
+                TextField("输入网址或搜索", text: $addressText)
+                    .textFieldStyle(.roundedBorder)
+                    .autocorrectionDisabled()
+                    .textInputAutocapitalization(.never)
+                    .keyboardType(.URL)
+                    .focused($addressFocused)
+                    .onSubmit {
+                        state.load(addressText)
+                        addressFocused = false
+                    }
+                if state.isLoading {
+                    ProgressView()
+                }
+            }
+            HStack(spacing: 28) {
+                Button {
+                    state.webView?.goBack()
+                } label: {
+                    Image(systemName: "chevron.backward")
+                }
+                .disabled(!state.canGoBack)
+
+                Button {
+                    state.webView?.goForward()
+                } label: {
+                    Image(systemName: "chevron.forward")
+                }
+                .disabled(!state.canGoForward)
+
+                Button {
+                    if state.isLoading {
+                        state.webView?.stopLoading()
+                    } else {
+                        state.webView?.reload()
+                    }
+                } label: {
+                    Image(systemName: state.isLoading ? "xmark" : "arrow.clockwise")
+                }
+
+                Button {
+                    state.load(profile.homePage)
+                } label: {
+                    Image(systemName: "house")
+                }
+
+                Spacer()
+            }
+            .font(.title3)
+        }
+        .padding(.horizontal, 12)
+        .padding(.vertical, 8)
+    }
+}
