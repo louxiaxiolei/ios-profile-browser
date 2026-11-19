@@ -1,1 +1,88 @@
-aW1wb3J0IEZvdW5kYXRpb24KCnN0cnVjdCBOYW1lZE9wdGlvbjogSWRlbnRpZmlhYmxlLCBFcXVhdGFibGUgewogICAgbGV0IGtleTogU3RyaW5nCiAgICBsZXQgbGFiZWw6IFN0cmluZwogICAgdmFyIGlkOiBTdHJpbmcgeyBrZXkgfQp9CgpzdHJ1Y3QgQnJvd3NlclByb2ZpbGU6IElkZW50aWZpYWJsZSwgQ29kYWJsZSwgRXF1YXRhYmxlIHsKICAgIHZhciBpZDogVVVJRCA9IFVVSUQoKQogICAgdmFyIG5hbWU6IFN0cmluZyA9ICLmlrAgUHJvZmlsZSIKICAgIHZhciB1YVByZXNldDogU3RyaW5nID0gImlwaG9uZTE3IgogICAgdmFyIGN1c3RvbVVBOiBTdHJpbmcgPSAiIgogICAgdmFyIGxhbmd1YWdlOiBTdHJpbmcgPSAiemgtQ04iCiAgICB2YXIgdGltZVpvbmVJZDogU3RyaW5nID0gIiIgLy8gIiIgPSDot5/pmo/orr7lpIcKICAgIHZhciBzY3JlZW5QcmVzZXQ6IFN0cmluZyA9ICJkZXZpY2UiCiAgICB2YXIgaG9tZVBhZ2U6IFN0cmluZyA9ICJodHRwczovL3d3dy5iaW5nLmNvbSIKCiAgICB2YXIgdXNlckFnZW50OiBTdHJpbmcgewogICAgICAgIGlmIHVhUHJlc2V0ID09ICJjdXN0b20iIHsKICAgICAgICAgICAgcmV0dXJuIGN1c3RvbVVBLmlzRW1wdHkgPyBQcmVzZXREYXRhLmRlZmF1bHRVQSA6IGN1c3RvbVVBCiAgICAgICAgfQogICAgICAgIHJldHVybiBQcmVzZXREYXRhLnVhUHJlc2V0c1t1YVByZXNldF0gPz8gUHJlc2V0RGF0YS5kZWZhdWx0VUEKICAgIH0KCiAgICB2YXIgc2NyZWVuU2l6ZTogKHdpZHRoOiBJbnQsIGhlaWdodDogSW50LCBkcHI6IERvdWJsZSk/IHsKICAgICAgICBQcmVzZXREYXRhLnNjcmVlblByZXNldHNbc2NyZWVuUHJlc2V0XQogICAgfQp9CgplbnVtIFByZXNldERhdGEgewogICAgc3RhdGljIGxldCBkZWZhdWx0VUEgPSAiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN181IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy41IE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xIgoKICAgIHN0YXRpYyBsZXQgdWFQcmVzZXRzOiBbU3RyaW5nOiBTdHJpbmddID0gWwogICAgICAgICJpcGhvbmUxNyI6ICJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE3XzUgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE3LjUgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEiLAogICAgICAgICJpcGhvbmUxOCI6ICJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzAgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE4LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEiLAogICAgICAgICJhbmRyb2lkIjogIk1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxNDsgUGl4ZWwgOCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjY0NzguMTIyIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwKICAgICAgICAibWFjU2FmYXJpIjogIk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDE0XzUpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy41IFNhZmFyaS82MDUuMS4xNSIsCiAgICAgICAgIndpbkNocm9tZSI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI2LjAuMC4wIFNhZmFyaS81MzcuMzYiLAogICAgXQoKICAgIHN0YXRpYyBsZXQgdWFQcmVzZXRPcHRpb25zOiBbTmFtZWRPcHRpb25dID0gWwogICAgICAgIE5hbWVkT3B0aW9uKGtleTogImlwaG9uZTE3IiwgbGFiZWw6ICJpUGhvbmUgU2FmYXJpIChpT1MgMTcpIiksCiAgICAgICAgTmFtZWRPcHRpb24oa2V5OiAiaXBob25lMTgiLCBsYWJlbDogImlQaG9uZSBTYWZhcmkgKGlPUyAxOCkiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJhbmRyb2lkIiwgbGFiZWw6ICJBbmRyb2lkIENocm9tZSAoUGl4ZWwgOCkiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJtYWNTYWZhcmkiLCBsYWJlbDogIm1hY09TIFNhZmFyaSIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIndpbkNocm9tZSIsIGxhYmVsOiAiV2luZG93cyBDaHJvbWUiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJjdXN0b20iLCBsYWJlbDogIuiHquWumuS5iSIpLAogICAgXQoKICAgIC8vIGtleSAtPiAod2lkdGgsIGhlaWdodCwgZGV2aWNlUGl4ZWxSYXRpbynvvJsiZGV2aWNlIiDkuI3lnKjmraTooajkuK0gPSDkuI3opobnm5YKICAgIHN0YXRpYyBsZXQgc2NyZWVuUHJlc2V0czogW1N0cmluZzogKHdpZHRoOiBJbnQsIGhlaWdodDogSW50LCBkcHI6IERvdWJsZSldID0gWwogICAgICAgICJpcGhvbmUxNXBybyI6ICgzOTMsIDg1MiwgMy4wKSwKICAgICAgICAiaXBob25lc2UiOiAoMzc1LCA2NjcsIDIuMCksCiAgICAgICAgInBpeGVsOCI6ICg0MTIsIDkxNSwgMi42MjUpLAogICAgICAgICJkZXNrdG9wIjogKDE5MjAsIDEwODAsIDEuMCksCiAgICBdCgogICAgc3RhdGljIGxldCBzY3JlZW5PcHRpb25zOiBbTmFtZWRPcHRpb25dID0gWwogICAgICAgIE5hbWVkT3B0aW9uKGtleTogImRldmljZSIsIGxhYmVsOiAi6Lef6ZqP6K6+5aSHIiksCiAgICAgICAgTmFtZWRPcHRpb24oa2V5OiAiaXBob25lMTVwcm8iLCBsYWJlbDogImlQaG9uZSAxNSBQcm8gwrcgMzkzw5c4NTIiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJpcGhvbmVzZSIsIGxhYmVsOiAiaVBob25lIFNFIMK3IDM3NcOXNjY3IiksCiAgICAgICAgTmFtZWRPcHRpb24oa2V5OiAicGl4ZWw4IiwgbGFiZWw6ICJQaXhlbCA4IMK3IDQxMsOXOTE1IiksCiAgICAgICAgTmFtZWRPcHRpb24oa2V5OiAiZGVza3RvcCIsIGxhYmVsOiAi5qGM6Z2iIMK3IDE5MjDDlzEwODAiKSwKICAgIF0KCiAgICBzdGF0aWMgbGV0IGxhbmd1YWdlT3B0aW9uczogW05hbWVkT3B0aW9uXSA9IFsKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJ6aC1DTiIsIGxhYmVsOiAi566A5L2T5Lit5paHICh6aC1DTikiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJ6aC1UVyIsIGxhYmVsOiAi57mB6auU5Lit5paHICh6aC1UVykiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJlbi1VUyIsIGxhYmVsOiAiRW5nbGlzaCBVUyAoZW4tVVMpIiksCiAgICAgICAgTmFtZWRPcHRpb24oa2V5OiAiZW4tR0IiLCBsYWJlbDogIkVuZ2xpc2ggVUsgKGVuLUdCKSIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogImphLUpQIiwgbGFiZWw6ICLml6XmnKzoqp4gKGphLUpQKSIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogImtvLUtSIiwgbGFiZWw6ICLtlZzqta3slrQgKGtvLUtSKSIpLAogICAgXQoKICAgIHN0YXRpYyBsZXQgdGltZVpvbmVPcHRpb25zOiBbTmFtZWRPcHRpb25dID0gWwogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIiIsIGxhYmVsOiAi6Lef6ZqP6K6+5aSHIiksCiAgICAgICAgTmFtZWRPcHRpb24oa2V5OiAiQXNpYS9TaGFuZ2hhaSIsIGxhYmVsOiAi5LiK5rW3IChVVEMrOCkiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJBc2lhL1RhaXBlaSIsIGxhYmVsOiAi5Y+w5YyXIChVVEMrOCkiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJBc2lhL1NpbmdhcG9yZSIsIGxhYmVsOiAi5paw5Yqg5Z2hIChVVEMrOCkiKSwKICAgICAgICBOYW1lZE9wdGlvbihrZXk6ICJBc2lhL1Rva3lvIiwgbGFiZWw6ICLkuJzkuqwgKFVUQys5KSIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIkV1cm9wZS9Mb25kb24iLCBsYWJlbDogIuS8puaVpiIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIkV1cm9wZS9CZXJsaW4iLCBsYWJlbDogIuafj+aelyIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIkFtZXJpY2EvTmV3X1lvcmsiLCBsYWJlbDogIue6vee6piIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCBsYWJlbDogIua0m+adieeftiIpLAogICAgICAgIE5hbWVkT3B0aW9uKGtleTogIlVUQyIsIGxhYmVsOiAiVVRDIiksCiAgICBdCn0K
+import Foundation
+
+struct NamedOption: Identifiable, Equatable {
+    let key: String
+    let label: String
+    var id: String { key }
+}
+
+struct BrowserProfile: Identifiable, Codable, Equatable {
+    var id: UUID = UUID()
+    var name: String = "新 Profile"
+    var uaPreset: String = "iphone17"
+    var customUA: String = ""
+    var language: String = "zh-CN"
+    var timeZoneId: String = "" // "" = 跟随设备
+    var screenPreset: String = "device"
+    var homePage: String = "https://www.bing.com"
+
+    var userAgent: String {
+        if uaPreset == "custom" {
+            return customUA.isEmpty ? PresetData.defaultUA : customUA
+        }
+        return PresetData.uaPresets[uaPreset] ?? PresetData.defaultUA
+    }
+
+    var screenSize: (width: Int, height: Int, dpr: Double)? {
+        PresetData.screenPresets[screenPreset]
+    }
+}
+
+enum PresetData {
+    static let defaultUA = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"
+
+    static let uaPresets: [String: String] = [
+        "iphone17": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+        "iphone18": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+        "android": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36",
+        "macSafari": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+        "winChrome": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    ]
+
+    static let uaPresetOptions: [NamedOption] = [
+        NamedOption(key: "iphone17", label: "iPhone Safari (iOS 17)"),
+        NamedOption(key: "iphone18", label: "iPhone Safari (iOS 18)"),
+        NamedOption(key: "android", label: "Android Chrome (Pixel 8)"),
+        NamedOption(key: "macSafari", label: "macOS Safari"),
+        NamedOption(key: "winChrome", label: "Windows Chrome"),
+        NamedOption(key: "custom", label: "自定义"),
+    ]
+
+    // key -> (width, height, devicePixelRatio)；"device" 不在此表中 = 不覆盖
+    static let screenPresets: [String: (width: Int, height: Int, dpr: Double)] = [
+        "iphone15pro": (393, 852, 3.0),
+        "iphonese": (375, 667, 2.0),
+        "pixel8": (412, 915, 2.625),
+        "desktop": (1920, 1080, 1.0),
+    ]
+
+    static let screenOptions: [NamedOption] = [
+        NamedOption(key: "device", label: "跟随设备"),
+        NamedOption(key: "iphone15pro", label: "iPhone 15 Pro · 393×852"),
+        NamedOption(key: "iphonese", label: "iPhone SE · 375×667"),
+        NamedOption(key: "pixel8", label: "Pixel 8 · 412×915"),
+        NamedOption(key: "desktop", label: "桌面 · 1920×1080"),
+    ]
+
+    static let languageOptions: [NamedOption] = [
+        NamedOption(key: "zh-CN", label: "简体中文 (zh-CN)"),
+        NamedOption(key: "zh-TW", label: "繁體中文 (zh-TW)"),
+        NamedOption(key: "en-US", label: "English US (en-US)"),
+        NamedOption(key: "en-GB", label: "English UK (en-GB)"),
+        NamedOption(key: "ja-JP", label: "日本語 (ja-JP)"),
+        NamedOption(key: "ko-KR", label: "한국어 (ko-KR)"),
+    ]
+
+    static let timeZoneOptions: [NamedOption] = [
+        NamedOption(key: "", label: "跟随设备"),
+        NamedOption(key: "Asia/Shanghai", label: "上海 (UTC+8)"),
+        NamedOption(key: "Asia/Taipei", label: "台北 (UTC+8)"),
+        NamedOption(key: "Asia/Singapore", label: "新加坡 (UTC+8)"),
+        NamedOption(key: "Asia/Tokyo", label: "东京 (UTC+9)"),
+        NamedOption(key: "Europe/London", label: "伦敦"),
+        NamedOption(key: "Europe/Berlin", label: "柏林"),
+        NamedOption(key: "America/New_York", label: "纽约"),
+        NamedOption(key: "America/Los_Angeles", label: "洛杉矶"),
+        NamedOption(key: "UTC", label: "UTC"),
+    ]
+}
