@@ -1,1 +1,74 @@
-aW1wb3J0IFN3aWZ0VUkKCnN0cnVjdCBDb250ZW50VmlldzogVmlldyB7CiAgICBARW52aXJvbm1lbnRPYmplY3QgdmFyIHN0b3JlOiBQcm9maWxlU3RvcmUKICAgIEBTdGF0ZSBwcml2YXRlIHZhciBzaG93aW5nTmV3ID0gZmFsc2UKICAgIEBTdGF0ZSBwcml2YXRlIHZhciBlZGl0aW5nOiBCcm93c2VyUHJvZmlsZT8KCiAgICB2YXIgYm9keTogc29tZSBWaWV3IHsKICAgICAgICBOYXZpZ2F0aW9uU3RhY2sgewogICAgICAgICAgICBMaXN0IHsKICAgICAgICAgICAgICAgIEZvckVhY2goc3RvcmUucHJvZmlsZXMpIHsgcHJvZmlsZSBpbgogICAgICAgICAgICAgICAgICAgIE5hdmlnYXRpb25MaW5rIHsKICAgICAgICAgICAgICAgICAgICAgICAgQnJvd3NlclNjcmVlbihwcm9maWxlOiBwcm9maWxlKQogICAgICAgICAgICAgICAgICAgIH0gbGFiZWw6IHsKICAgICAgICAgICAgICAgICAgICAgICAgVlN0YWNrKGFsaWdubWVudDogLmxlYWRpbmcsIHNwYWNpbmc6IDMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQocHJvZmlsZS5uYW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb250KC5oZWFkbGluZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQoc3VidGl0bGUoZm9yOiBwcm9maWxlKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9udCguY2FwdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9yZWdyb3VuZFN0eWxlKC5zZWNvbmRhcnkpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgLnN3aXBlQWN0aW9ucyhlZGdlOiAudHJhaWxpbmcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQnV0dG9uKHJvbGU6IC5kZXN0cnVjdGl2ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RvcmUuZGVsZXRlKHByb2ZpbGUpCiAgICAgICAgICAgICAgICAgICAgICAgIH0gbGFiZWw6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExhYmVsKCLliKDpmaQiLCBzeXN0ZW1JbWFnZTogInRyYXNoIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBCdXR0b24gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRpdGluZyA9IHByb2ZpbGUKICAgICAgICAgICAgICAgICAgICAgICAgfSBsYWJlbDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGFiZWwoIue8lui+kSIsIHN5c3RlbUltYWdlOiAicGVuY2lsIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAudGludCguYmx1ZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgLnN3aXBlQWN0aW9ucyhlZGdlOiAubGVhZGluZykgewogICAgICAgICAgICAgICAgICAgICAgICBCdXR0b24gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RvcmUuY2xlYXJEYXRhKGZvcjogcHJvZmlsZSkKICAgICAgICAgICAgICAgICAgICAgICAgfSBsYWJlbDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGFiZWwoIua4heaVsOaNriIsIHN5c3RlbUltYWdlOiAiZXJhc2VyIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAudGludCgub3JhbmdlKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAubmF2aWdhdGlvblRpdGxlKCJQcm9maWxlcyIpCiAgICAgICAgICAgIC50b29sYmFyIHsKICAgICAgICAgICAgICAgIFRvb2xiYXJJdGVtKHBsYWNlbWVudDogLnByaW1hcnlBY3Rpb24pIHsKICAgICAgICAgICAgICAgICAgICBCdXR0b24gewogICAgICAgICAgICAgICAgICAgICAgICBzaG93aW5nTmV3ID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0gbGFiZWw6IHsKICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2Uoc3lzdGVtTmFtZTogInBsdXMiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAuc2hlZXQoaXNQcmVzZW50ZWQ6ICRzaG93aW5nTmV3KSB7CiAgICAgICAgICAgICAgICBQcm9maWxlRWRpdG9yVmlldyhwcm9maWxlOiBCcm93c2VyUHJvZmlsZSgpKSB7IG5ld1Byb2ZpbGUgaW4KICAgICAgICAgICAgICAgICAgICBzdG9yZS5hZGQobmV3UHJvZmlsZSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAuc2hlZXQoaXRlbTogJGVkaXRpbmcpIHsgcHJvZmlsZSBpbgogICAgICAgICAgICAgICAgUHJvZmlsZUVkaXRvclZpZXcocHJvZmlsZTogcHJvZmlsZSkgeyB1cGRhdGVkIGluCiAgICAgICAgICAgICAgICAgICAgc3RvcmUudXBkYXRlKHVwZGF0ZWQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jIHN1YnRpdGxlKGZvciBwcm9maWxlOiBCcm93c2VyUHJvZmlsZSkgLT4gU3RyaW5nIHsKICAgICAgICBsZXQgdWEgPSBQcmVzZXREYXRhLnVhUHJlc2V0T3B0aW9ucy5maXJzdCB7ICQwLmtleSA9PSBwcm9maWxlLnVhUHJlc2V0IH0/LmxhYmVsID8/IHByb2ZpbGUudWFQcmVzZXQKICAgICAgICBsZXQgdHogPSBwcm9maWxlLnRpbWVab25lSWQuaXNFbXB0eSA/ICLorr7lpIfml7bljLoiIDogcHJvZmlsZS50aW1lWm9uZUlkCiAgICAgICAgcmV0dXJuICJcKHVhKSDCtyBcKHByb2ZpbGUubGFuZ3VhZ2UpIMK3IFwodHopIgogICAgfQp9Cg==
+import SwiftUI
+
+struct ContentView: View {
+    @EnvironmentObject var store: ProfileStore
+    @State private var showingNew = false
+    @State private var editing: BrowserProfile?
+
+    var body: some View {
+        NavigationStack {
+            List {
+                ForEach(store.profiles) { profile in
+                    NavigationLink {
+                        BrowserScreen(profile: profile)
+                    } label: {
+                        VStack(alignment: .leading, spacing: 3) {
+                            Text(profile.name)
+                                .font(.headline)
+                            Text(subtitle(for: profile))
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
+                    }
+                    .swipeActions(edge: .trailing) {
+                        Button(role: .destructive) {
+                            store.delete(profile)
+                        } label: {
+                            Label("删除", systemImage: "trash")
+                        }
+                        Button {
+                            editing = profile
+                        } label: {
+                            Label("编辑", systemImage: "pencil")
+                        }
+                        .tint(.blue)
+                    }
+                    .swipeActions(edge: .leading) {
+                        Button {
+                            store.clearData(for: profile)
+                        } label: {
+                            Label("清数据", systemImage: "eraser")
+                        }
+                        .tint(.orange)
+                    }
+                }
+            }
+            .navigationTitle("Profiles")
+            .toolbar {
+                ToolbarItem(placement: .primaryAction) {
+                    Button {
+                        showingNew = true
+                    } label: {
+                        Image(systemName: "plus")
+                    }
+                }
+            }
+            .sheet(isPresented: $showingNew) {
+                ProfileEditorView(profile: BrowserProfile()) { newProfile in
+                    store.add(newProfile)
+                }
+            }
+            .sheet(item: $editing) { profile in
+                ProfileEditorView(profile: profile) { updated in
+                    store.update(updated)
+                }
+            }
+        }
+    }
+
+    private func subtitle(for profile: BrowserProfile) -> String {
+        let ua = PresetData.uaPresetOptions.first { $0.key == profile.uaPreset }?.label ?? profile.uaPreset
+        let tz = profile.timeZoneId.isEmpty ? "设备时区" : profile.timeZoneId
+        return "\(ua) · \(profile.language) · \(tz)"
+    }
+}
