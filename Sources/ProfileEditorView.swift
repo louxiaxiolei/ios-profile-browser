@@ -1,1 +1,79 @@
-aW1wb3J0IFN3aWZ0VUkKCnN0cnVjdCBQcm9maWxlRWRpdG9yVmlldzogVmlldyB7CiAgICBARW52aXJvbm1lbnQoXC5kaXNtaXNzKSBwcml2YXRlIHZhciBkaXNtaXNzCiAgICBAU3RhdGUgcHJpdmF0ZSB2YXIgZHJhZnQ6IEJyb3dzZXJQcm9maWxlCiAgICBsZXQgb25TYXZlOiAoQnJvd3NlclByb2ZpbGUpIC0+IFZvaWQKCiAgICBpbml0KHByb2ZpbGU6IEJyb3dzZXJQcm9maWxlLCBvblNhdmU6IEBlc2NhcGluZyAoQnJvd3NlclByb2ZpbGUpIC0+IFZvaWQpIHsKICAgICAgICBfZHJhZnQgPSBTdGF0ZShpbml0aWFsVmFsdWU6IHByb2ZpbGUpCiAgICAgICAgc2VsZi5vblNhdmUgPSBvblNhdmUKICAgIH0KCiAgICB2YXIgYm9keTogc29tZSBWaWV3IHsKICAgICAgICBOYXZpZ2F0aW9uU3RhY2sgewogICAgICAgICAgICBGb3JtIHsKICAgICAgICAgICAgICAgIFNlY3Rpb24oIuWfuuacrCIpIHsKICAgICAgICAgICAgICAgICAgICBUZXh0RmllbGQoIuWQjeensCIsIHRleHQ6ICRkcmFmdC5uYW1lKQogICAgICAgICAgICAgICAgICAgIFRleHRGaWVsZCgi5Li76aG1IiwgdGV4dDogJGRyYWZ0LmhvbWVQYWdlKQogICAgICAgICAgICAgICAgICAgICAgICAuYXV0b2NvcnJlY3Rpb25EaXNhYmxlZCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC50ZXh0SW5wdXRBdXRvY2FwaXRhbGl6YXRpb24oLm5ldmVyKQogICAgICAgICAgICAgICAgICAgICAgICAua2V5Ym9hcmRUeXBlKC5VUkwpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBTZWN0aW9uKCJVc2VyIEFnZW50IikgewogICAgICAgICAgICAgICAgICAgIFBpY2tlcigi6aKE6K6+Iiwgc2VsZWN0aW9uOiAkZHJhZnQudWFQcmVzZXQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgRm9yRWFjaChQcmVzZXREYXRhLnVhUHJlc2V0T3B0aW9ucykgeyBpdGVtIGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGl0ZW0ubGFiZWwpLnRhZyhpdGVtLmtleSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpZiBkcmFmdC51YVByZXNldCA9PSAiY3VzdG9tIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRleHRGaWVsZCgi6Ieq5a6a5LmJIFVBIiwgdGV4dDogJGRyYWZ0LmN1c3RvbVVBLCBheGlzOiAudmVydGljYWwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAubGluZUxpbWl0KDMuLi42KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmF1dG9jb3JyZWN0aW9uRGlzYWJsZWQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRleHRJbnB1dEF1dG9jYXBpdGFsaXphdGlvbigubmV2ZXIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgU2VjdGlvbigi6K+t6KiA5LiO5pe25Yy6IikgewogICAgICAgICAgICAgICAgICAgIFBpY2tlcigi6K+t6KiAIiwgc2VsZWN0aW9uOiAkZHJhZnQubGFuZ3VhZ2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgRm9yRWFjaChQcmVzZXREYXRhLmxhbmd1YWdlT3B0aW9ucykgeyBpdGVtIGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGl0ZW0ubGFiZWwpLnRhZyhpdGVtLmtleSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBQaWNrZXIoIuaXtuWMuiIsIHNlbGVjdGlvbjogJGRyYWZ0LnRpbWVab25lSWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgRm9yRWFjaChQcmVzZXREYXRhLnRpbWVab25lT3B0aW9ucykgeyBpdGVtIGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGl0ZW0ubGFiZWwpLnRhZyhpdGVtLmtleSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFNlY3Rpb24oIuWxj+W5lSIpIHsKICAgICAgICAgICAgICAgICAgICBQaWNrZXIoIuWwuuWvuCIsIHNlbGVjdGlvbjogJGRyYWZ0LnNjcmVlblByZXNldCkgewogICAgICAgICAgICAgICAgICAgICAgICBGb3JFYWNoKFByZXNldERhdGEuc2NyZWVuT3B0aW9ucykgeyBpdGVtIGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGl0ZW0ubGFiZWwpLnRhZyhpdGVtLmtleSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFNlY3Rpb24gewogICAgICAgICAgICAgICAgICAgIFRleHQoIuivtOaYju+8muavj+S4qiBwcm9maWxlIOeahCBjb29raWUg5LiO5pys5Zyw5a2Y5YKo54us56uL6ZqU56a777ybVUEg5Li65Y6f55Sf6K6+572u77yM6K+t6KiAIC8g5pe25Yy6IC8g5bGP5bmV5Li6IEpTIOWxguihqOmdouWPguaVsO+8jOW8leaTjue6p+aMh+e6ue+8iGNhbnZhcyAvIFdlYkdMIOetie+8ieWcqCBpT1Mg5LiK5peg5rOV5L+u5pS544CCIikKICAgICAgICAgICAgICAgICAgICAgICAgLmZvbnQoLmNhcHRpb24pCiAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JlZ3JvdW5kU3R5bGUoLnNlY29uZGFyeSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAubmF2aWdhdGlvblRpdGxlKCJQcm9maWxlIOiuvue9riIpCiAgICAgICAgICAgIC5uYXZpZ2F0aW9uQmFyVGl0bGVEaXNwbGF5TW9kZSguaW5saW5lKQogICAgICAgICAgICAudG9vbGJhciB7CiAgICAgICAgICAgICAgICBUb29sYmFySXRlbShwbGFjZW1lbnQ6IC5jYW5jZWxsYXRpb25BY3Rpb24pIHsKICAgICAgICAgICAgICAgICAgICBCdXR0b24oIuWPlua2iCIpIHsgZGlzbWlzcygpIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFRvb2xiYXJJdGVtKHBsYWNlbWVudDogLmNvbmZpcm1hdGlvbkFjdGlvbikgewogICAgICAgICAgICAgICAgICAgIEJ1dHRvbigi5L+d5a2YIikgewogICAgICAgICAgICAgICAgICAgICAgICBpZiBkcmFmdC5uYW1lLnRyaW1taW5nQ2hhcmFjdGVycyhpbjogLndoaXRlc3BhY2VzKS5pc0VtcHR5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyYWZ0Lm5hbWUgPSAiUHJvZmlsZSIKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBvblNhdmUoZHJhZnQpCiAgICAgICAgICAgICAgICAgICAgICAgIGRpc21pc3MoKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+import SwiftUI
+
+struct ProfileEditorView: View {
+    @Environment(\.dismiss) private var dismiss
+    @State private var draft: BrowserProfile
+    let onSave: (BrowserProfile) -> Void
+
+    init(profile: BrowserProfile, onSave: @escaping (BrowserProfile) -> Void) {
+        _draft = State(initialValue: profile)
+        self.onSave = onSave
+    }
+
+    var body: some View {
+        NavigationStack {
+            Form {
+                Section("基本") {
+                    TextField("名称", text: $draft.name)
+                    TextField("主页", text: $draft.homePage)
+                        .autocorrectionDisabled()
+                        .textInputAutocapitalization(.never)
+                        .keyboardType(.URL)
+                }
+                Section("User Agent") {
+                    Picker("预设", selection: $draft.uaPreset) {
+                        ForEach(PresetData.uaPresetOptions) { item in
+                            Text(item.label).tag(item.key)
+                        }
+                    }
+                    if draft.uaPreset == "custom" {
+                        TextField("自定义 UA", text: $draft.customUA, axis: .vertical)
+                            .lineLimit(3...6)
+                            .autocorrectionDisabled()
+                            .textInputAutocapitalization(.never)
+                    }
+                }
+                Section("语言与时区") {
+                    Picker("语言", selection: $draft.language) {
+                        ForEach(PresetData.languageOptions) { item in
+                            Text(item.label).tag(item.key)
+                        }
+                    }
+                    Picker("时区", selection: $draft.timeZoneId) {
+                        ForEach(PresetData.timeZoneOptions) { item in
+                            Text(item.label).tag(item.key)
+                        }
+                    }
+                }
+                Section("屏幕") {
+                    Picker("尺寸", selection: $draft.screenPreset) {
+                        ForEach(PresetData.screenOptions) { item in
+                            Text(item.label).tag(item.key)
+                        }
+                    }
+                }
+                Section {
+                    Text("说明：每个 profile 的 cookie 与本地存储独立隔离；UA 为原生设置，语言 / 时区 / 屏幕为 JS 层表面参数，引擎级指纹（canvas / WebGL 等）在 iOS 上无法修改。")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+            .navigationTitle("Profile 设置")
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+                ToolbarItem(placement: .cancellationAction) {
+                    Button("取消") { dismiss() }
+                }
+                ToolbarItem(placement: .confirmationAction) {
+                    Button("保存") {
+                        if draft.name.trimmingCharacters(in: .whitespaces).isEmpty {
+                            draft.name = "Profile"
+                        }
+                        onSave(draft)
+                        dismiss()
+                    }
+                }
+            }
+        }
+    }
+}
