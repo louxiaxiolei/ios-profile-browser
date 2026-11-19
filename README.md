@@ -1,1 +1,21 @@
-IyBQcm9maWxlQnJvd3NlcgoK5aSaIHByb2ZpbGUg6ZqU56a75rWP6KeI5Zmo77yIaU9TIDE3K++8jFN3aWZ0VUkgKyBXS1dlYlZpZXfvvInvvIzlj4LnhacgQWRzUG93ZXIg55qEIHByb2ZpbGUg5oCd6Lev77yaCgotIOavj+S4qiBwcm9maWxlIOS9v+eUqOeLrOeri+eahCBgV0tXZWJzaXRlRGF0YVN0b3JlYO+8iOaMiSBwcm9maWxlIFVVSUQg6ZqU56a777yJ77yMY29va2llIC8gbG9jYWxTdG9yYWdlIC8g57yT5a2Y5LqS5LiN5Liy5Y+3Ci0g5q+P5LiqIHByb2ZpbGUg5Y+v5Y2V54us6K6+572u77yaVXNlciBBZ2VudO+8iOmihOiuvuaIluiHquWumuS5ie+8ieOAgeivreiogOOAgeaXtuWMuuOAgeWxj+W5leWwuuWvuO+8iEpTIOWxguazqOWFpeeahOihqOmdouWPguaVsO+8ieOAgeS4u+mhtQotIHByb2ZpbGUg5Y+v5paw5bu6IC8g57yW6L6RIC8g5Yig6Zmk77yM5Yig6Zmk5pe25LiA5bm25riF56m65YW25YWo6YOo572R56uZ5pWw5o2u77yb5Lmf5Y+v5Y2V54us5LiA6ZSu5riF5pWw5o2uCgojIyBpT1Mg5bmz5Y+w6ZmQ5Yi277yI5YWI6K+05riF77yJCgppT1Mg5by65Yi25omA5pyJ5rWP6KeI5Zmo5L2/55SoIFdlYktpdCDlhoXmoLjvvIzoh6rnrb7lkI0gQXBwIOayoeacieeJueauiuadg+mZkO+8jOWboOatpOWBmuS4jeWIsOahjOmdouaMh+e6uea1j+iniOWZqOeahOW6leWxguiDveWKm++8mgoKLSDkuI3og73mlLkgY2FudmFzIC8gV2ViR0wgLyDlrZfkvZPliJfooajnrYnlvJXmk47nuqfmjIfnurkKLSDkuI3og73mjIkgcHJvZmlsZSDliIbphY3ni6znq4vku6PnkIbvvIhpT1Mg5Y+q5pyJ5YWo5bGA5Luj55CG77yJCi0gSlMg5rOo5YWl5Y+q6IO95pS5IFVBIOS5i+WklueahOihqOmdouWPguaVsO+8iOivreiogOOAgeaXtuWMuuOAgeWxj+W5le+8ie+8jOS4lOazqOWFpeW8j+S/ruaUueacrOi6q+WPr+iiq+e9keermeajgOa1iwoK5pysIEFwcCDnmoTlrprkvY3mmK/jgIzlpJrotKblj7fliIblvIDnmbvlvZXjgIHkupLkuI3msaHmn5PjgI3vvIzkuI3mmK/lr7nmipflubPlj7Dpo47mjqfnmoTpmLLlhbPogZTlt6XlhbfjgIIKCiMjIOaehOW7ugoKR2l0SHViIEFjdGlvbnMg5omL5Yqo6Kem5Y+RIGBCdWlsZCBpT1MgSVBBYCDlt6XkvZzmtYHvvIhtYWNvcy0xNCArIFhjb2RlR2VuIOeUn+aIkOW3peeoi++8ie+8jOS6p+WHuuacquetvuWQjSBgUHJvZmlsZUJyb3dzZXItdW5zaWduZWQuaXBhYO+8iGFydGlmYWN0IOS/neeVmSAzMCDlpKnvvInvvIzoh6rooYzph43nrb7lkI3lkI7lronoo4XjgIIK
+# ProfileBrowser
+
+多 profile 隔离浏览器（iOS 17+，SwiftUI + WKWebView），参照 AdsPower 的 profile 思路：
+
+- 每个 profile 使用独立的 `WKWebsiteDataStore`（按 profile UUID 隔离），cookie / localStorage / 缓存互不串号
+- 每个 profile 可单独设置：User Agent（预设或自定义）、语言、时区、屏幕尺寸（JS 层注入的表面参数）、主页
+- profile 可新建 / 编辑 / 删除，删除时一并清空其全部网站数据；也可单独一键清数据
+
+## iOS 平台限制（先说清）
+
+iOS 强制所有浏览器使用 WebKit 内核，自签名 App 没有特殊权限，因此做不到桌面指纹浏览器的底层能力：
+
+- 不能改 canvas / WebGL / 字体列表等引擎级指纹
+- 不能按 profile 分配独立代理（iOS 只有全局代理）
+- JS 注入只能改 UA 之外的表面参数（语言、时区、屏幕），且注入式修改本身可被网站检测
+
+本 App 的定位是「多账号分开登录、互不污染」，不是对抗平台风控的防关联工具。
+
+## 构建
+
+GitHub Actions 手动触发 `Build iOS IPA` 工作流（macos-14 + XcodeGen 生成工程），产出未签名 `ProfileBrowser-unsigned.ipa`（artifact 保留 30 天），自行重签名后安装。
